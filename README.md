@@ -1,6 +1,6 @@
 # blog-application
 This is Technical Skill to Apply in CIMB Niaga
-Check Point Feature :
+
 Requirements:
 - Implement an endpoint to create a blog post. The endpoint should accept a JSON payload containing the title, body, and author of the blog post. The endpoint should return the created blog post with a generated ID. ===> DONE
 - Implement an endpoint to retrieve a single blog post by ID. ===> DONE
